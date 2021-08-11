@@ -1,0 +1,10 @@
+# .gitignore
+
+# pdflatex build files
+*.aux
+*.log
+*.out
+
+# bibtex build files
+*.bbl
+*.blg
