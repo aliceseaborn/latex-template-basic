@@ -1,5 +1,8 @@
 # .gitignore
 
+# OSX desktop services
+**.DS_Store
+
 # pdflatex build files
 *.aux
 *.log
